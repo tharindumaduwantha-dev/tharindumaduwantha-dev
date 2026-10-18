@@ -87,12 +87,12 @@ A responsive travel and tourism website designed to showcase destinations and tr
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dilhanmaduwantha5566&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilhanmaduwantha5566&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tharindumaduwantha-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindumaduwantha-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dilhanmaduwantha5566&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <img src="https://streak-stats.demolab.com?user=tharindumaduwantha-dev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ A responsive travel and tourism website designed to showcase destinations and tr
   <a href="mailto:dilhanmaduwantha5566@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/dilhanmaduwantha5566">
+  <a href="https://github.com/tharindumaduwantha-dev">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
